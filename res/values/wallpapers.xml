@@ -16,38 +16,38 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>abstract</item>
-		<item>autumn</item>
-		<item>card</item>
-		<item>drawing</item>
-		<item>equus</item>
-		<item>flower</item>
-		<item>geranium</item>
-		<item>glare</item>
-		<item>mountains</item>
-		<item>petal</item>
-		<item>sheet</item>
-		<item>space</item>
-		<item>spiral</item>
-		<item>sunset</item>
-		<item>tablet</item>
+        <item>abstract_1</item>
+	<item>autumn</item>
+	<item>card</item>
+	<item>drawing</item>
+	<item>equus</item>
+	<item>flower</item>
+	<item>geranium</item>
+	<item>glare</item>
+	<item>mountains</item>
+	<item>petal</item>
+	<item>sheet</item>
+	<item>space</item>
+	<item>spiral</item>
+	<item>sunset</item>
+	<item>tablet</item>
     </string-array>
 
     <string-array name="info" translatable="false">
         <item>Nitrogen 1 - Abstract</item>
-		<item>Nitrogen 2 - Autum</item>
-		<item>Nitrogen 3 - Card</item>
-		<item>Nitrogen 4 - Drawing</item>
-		<item>Nitrogen 5 - Equus</item>
-		<item>Nitrogen 6 - Flower</item>
-		<item>Nitrogen 7 - Geranium</item>
-		<item>Nitrogen 8 - Glare</item>
-		<item>Nitrogen 9 - Mountains</item>
-		<item>Nitrogen 10 - Petal</item>
-		<item>Nitrogen 11 - Sheet</item>
-		<item>Nitrogen 12 - Space</item>
-		<item>Nitrogen 13 - Spiral</item>
-		<item>Nitrogen 14 - Sunset</item>
-		<item>Nitrogen 15 - Tablet</item>
+	<item>Nitrogen 2 - Autum</item>
+	<item>Nitrogen 3 - Card</item>
+	<item>Nitrogen 4 - Drawing</item>
+	<item>Nitrogen 5 - Equus</item>
+	<item>Nitrogen 6 - Flower</item>
+	<item>Nitrogen 7 - Geranium</item>
+	<item>Nitrogen 8 - Glare</item>
+	<item>Nitrogen 9 - Mountains</item>
+	<item>Nitrogen 10 - Petal</item>
+	<item>Nitrogen 11 - Sheet</item>
+	<item>Nitrogen 12 - Space</item>
+	<item>Nitrogen 13 - Spiral</item>
+	<item>Nitrogen 14 - Sunset</item>
+	<item>Nitrogen 15 - Tablet</item>
 	</string-array>
 </resources>
