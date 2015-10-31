@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2013 The CyanogenMod Project
+     Copyright (C) 2015 Nitrogen Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -17,37 +17,57 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
         <item>abstract_1</item>
-	<item>autumn</item>
-	<item>card</item>
-	<item>drawing</item>
-	<item>equus</item>
-	<item>flower</item>
-	<item>geranium</item>
-	<item>glare</item>
-	<item>mountains</item>
-	<item>petal</item>
-	<item>sheet</item>
-	<item>space</item>
-	<item>spiral</item>
-	<item>sunset</item>
-	<item>tablet</item>
+		<item>autumn</item>
+		<item>card</item>
+		<item>drawing</item>
+		<item>equus</item>
+		<item>flower</item>
+		<item>geranium</item>
+		<item>glare</item>
+		<item>mountains</item>
+		<item>petal</item>
+		<item>sheet</item>
+		<item>space</item>
+		<item>spiral</item>
+		<item>sunset</item>
+		<item>tablet</item>
+		<item>AndroidMarshmallow_01</item>
+		<item>AndroidMarshmallow_02</item>
+		<item>AndroidMarshmallow_03</item>
+		<item>AndroidMarshmallow_04</item>
+		<item>AndroidMarshmallow_05</item>
+		<item>AndroidMarshmallow_06</item>
+		<item>AndroidMarshmallow_07</item>
+		<item>AndroidMarshmallow_08</item>
+		<item>AndroidMarshmallow_09</item>
+		<item>AndroidMarshmallow_10</item>
     </string-array>
 
     <string-array name="info" translatable="false">
         <item>Nitrogen 1 - Abstract</item>
-	<item>Nitrogen 2 - Autum</item>
-	<item>Nitrogen 3 - Card</item>
-	<item>Nitrogen 4 - Drawing</item>
-	<item>Nitrogen 5 - Equus</item>
-	<item>Nitrogen 6 - Flower</item>
-	<item>Nitrogen 7 - Geranium</item>
-	<item>Nitrogen 8 - Glare</item>
-	<item>Nitrogen 9 - Mountains</item>
-	<item>Nitrogen 10 - Petal</item>
-	<item>Nitrogen 11 - Sheet</item>
-	<item>Nitrogen 12 - Space</item>
-	<item>Nitrogen 13 - Spiral</item>
-	<item>Nitrogen 14 - Sunset</item>
-	<item>Nitrogen 15 - Tablet</item>
+		<item>Nitrogen 2 - Autum</item>
+		<item>Nitrogen 3 - Card</item>
+		<item>Nitrogen 4 - Drawing</item>
+		<item>Nitrogen 5 - Equus</item>
+		<item>Nitrogen 6 - Flower</item>
+		<item>Nitrogen 7 - Geranium</item>
+		<item>Nitrogen 8 - Glare</item>
+		<item>Nitrogen 9 - Mountains</item>
+		<item>Nitrogen 10 - Petal</item>
+		<item>Nitrogen 11 - Sheet</item>
+		<item>Nitrogen 12 - Space</item>
+		<item>Nitrogen 13 - Spiral</item>
+		<item>Nitrogen 14 - Sunset</item>
+		<item>Nitrogen 15 - Tablet</item>
+		<item>Android - Marshmallow 01</item>
+		<item>Android - Marshmallow 02</item>
+		<item>Android - Marshmallow 03</item>
+		<item>Android - Marshmallow 04</item>
+		<item>Android - Marshmallow 05</item>
+		<item>Android - Marshmallow 06</item>
+		<item>Android - Marshmallow 07</item>
+		<item>Android - Marshmallow 08</item>
+		<item>Android - Marshmallow 09</item>
+		<item>Android - Marshmallow 10</item>
 	</string-array>
 </resources>
