@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2015 Nitrogen Project
-
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
-
           http://www.apache.org/licenses/LICENSE-2.0
-
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -16,7 +13,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>abstract_1</item>
+		<item>mm_01</item>
+		<item>mm_02</item>
+		<item>mm_03</item>
+		<item>mm_04</item>
+		<item>mm_05</item>
+		<item>mm_06</item>
+		<item>mm_07</item>
+		<item>mm_08</item>
+		<item>mm_09</item>
+		<item>mm_10</item>
+		<item>abstract_1</item>
 		<item>autumn</item>
 		<item>card</item>
 		<item>drawing</item>
@@ -31,20 +38,20 @@
 		<item>spiral</item>
 		<item>sunset</item>
 		<item>tablet</item>
-		<item>AndroidMarshmallow_01</item>
-		<item>AndroidMarshmallow_02</item>
-		<item>AndroidMarshmallow_03</item>
-		<item>AndroidMarshmallow_04</item>
-		<item>AndroidMarshmallow_05</item>
-		<item>AndroidMarshmallow_06</item>
-		<item>AndroidMarshmallow_07</item>
-		<item>AndroidMarshmallow_08</item>
-		<item>AndroidMarshmallow_09</item>
-		<item>AndroidMarshmallow_10</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Nitrogen 1 - Abstract</item>
+		<item>Android - Marshmallow 01</item>
+		<item>Android - Marshmallow 02</item>
+		<item>Android - Marshmallow 03</item>
+		<item>Android - Marshmallow 04</item>
+		<item>Android - Marshmallow 05</item>
+		<item>Android - Marshmallow 06</item>
+		<item>Android - Marshmallow 07</item>
+		<item>Android - Marshmallow 08</item>
+		<item>Android - Marshmallow 09</item>
+		<item>Android - Marshmallow 10</item>
+		<item>Nitrogen 1 - Abstract</item>
 		<item>Nitrogen 2 - Autum</item>
 		<item>Nitrogen 3 - Card</item>
 		<item>Nitrogen 4 - Drawing</item>
@@ -59,15 +66,5 @@
 		<item>Nitrogen 13 - Spiral</item>
 		<item>Nitrogen 14 - Sunset</item>
 		<item>Nitrogen 15 - Tablet</item>
-		<item>Android - Marshmallow 01</item>
-		<item>Android - Marshmallow 02</item>
-		<item>Android - Marshmallow 03</item>
-		<item>Android - Marshmallow 04</item>
-		<item>Android - Marshmallow 05</item>
-		<item>Android - Marshmallow 06</item>
-		<item>Android - Marshmallow 07</item>
-		<item>Android - Marshmallow 08</item>
-		<item>Android - Marshmallow 09</item>
-		<item>Android - Marshmallow 10</item>
 	</string-array>
 </resources>
