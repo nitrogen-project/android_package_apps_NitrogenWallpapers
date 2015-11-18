@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2015 Nitrogen Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+         http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="370dp"
+    android:height="370dp"
+    android:viewportWidth="370"
+    android:viewportHeight="370">
+
+    <path
+        android:fillColor="#009688"
+        android:pathData="M334.608,0H35.393C15.877,0,0,15.877,0,35.393v299.215C0,354.123,15.877,370,35.393,370h299.215
+C354.123,370,370,354.123,370,334.607V35.393C370,15.877,354.123,0,334.608,0z
+M330,226.57
+c-3.442-4.498-50.389-67.375-71.77-67.375s-50.203,37.204-50.203,37.204c-6.056-8.991-15.633-22.837-26.247-36.777
+c-33.754-44.327-47.593-49.722-56.647-49.204c-8.879,0.531-21.909,7.167-64.392,79.639C53.327,202.705,46.187,215.393,40,226.61V40
+h290V226.57z" />
+    <path
+        android:fillColor="#009688"
+        android:pathData="M 265.764 66.673 C 280.408382427 66.673 292.28 78.5446175735 292.28 93.189 C 292.28 107.833382427 280.408382427 119.705 265.764 119.705 C 251.119617573 119.705 239.248 107.833382427 239.248 93.189 C 239.248 78.5446175735 251.119617573 66.673 265.764 66.673 Z" />
+</vector>
