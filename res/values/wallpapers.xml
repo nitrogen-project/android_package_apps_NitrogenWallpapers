@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2015 Nitrogen Project
+     Copyright (C) 2016 Nitrogen Project
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
@@ -13,58 +13,68 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-		<item>mm_01</item>
-		<item>mm_02</item>
-		<item>mm_03</item>
-		<item>mm_04</item>
-		<item>mm_05</item>
-		<item>mm_06</item>
-		<item>mm_07</item>
-		<item>mm_08</item>
-		<item>mm_09</item>
-		<item>mm_10</item>
-		<item>abstract_1</item>
-		<item>autumn</item>
-		<item>card</item>
-		<item>drawing</item>
-		<item>equus</item>
-		<item>flower</item>
-		<item>geranium</item>
-		<item>glare</item>
-		<item>mountains</item>
-		<item>petal</item>
-		<item>sheet</item>
-		<item>space</item>
-		<item>spiral</item>
-		<item>sunset</item>
-		<item>tablet</item>
+		<item>nos_01</item>
+		<item>nos_02</item>
+		<item>nos_03</item>
+		<item>nos_04</item>
+		<item>nos_05</item>
+		<item>nos_06</item>
+		<item>nos_07</item>
+		<item>nos_08</item>
+		<item>nos_09</item>
+		<item>nos_10</item>
+		<item>nos_11</item>
+		<item>nos_12</item>
+		<item>nos_13</item>
+		<item>nos_14</item>
+		<item>nos_15</item>
+		<item>nos_16</item>
+		<item>nos_17</item>
+		<item>nos_18</item>
+		<item>nos_19</item>
+		<item>nos_20</item>
+		<item>nos_21</item>
+		<item>nos_22</item>
+		<item>nos_23</item>
+		<item>nos_24</item>
+		<item>nos_25</item>
+		<item>nos_26</item>
+		<item>nos_27</item>
+		<item>nos_28</item>
+		<item>nos_29</item>
+		<item>nos_30</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-		<item>Android - Marshmallow 01</item>
-		<item>Android - Marshmallow 02</item>
-		<item>Android - Marshmallow 03</item>
-		<item>Android - Marshmallow 04</item>
-		<item>Android - Marshmallow 05</item>
-		<item>Android - Marshmallow 06</item>
-		<item>Android - Marshmallow 07</item>
-		<item>Android - Marshmallow 08</item>
-		<item>Android - Marshmallow 09</item>
-		<item>Android - Marshmallow 10</item>
-		<item>Nitrogen 1 - Abstract</item>
-		<item>Nitrogen 2 - Autum</item>
-		<item>Nitrogen 3 - Card</item>
-		<item>Nitrogen 4 - Drawing</item>
-		<item>Nitrogen 5 - Equus</item>
-		<item>Nitrogen 6 - Flower</item>
-		<item>Nitrogen 7 - Geranium</item>
-		<item>Nitrogen 8 - Glare</item>
-		<item>Nitrogen 9 - Mountains</item>
-		<item>Nitrogen 10 - Petal</item>
-		<item>Nitrogen 11 - Sheet</item>
-		<item>Nitrogen 12 - Space</item>
-		<item>Nitrogen 13 - Spiral</item>
-		<item>Nitrogen 14 - Sunset</item>
-		<item>Nitrogen 15 - Tablet</item>
+		<item>Nitrogen - 01</item>
+		<item>Nitrogen - 02</item>
+		<item>Nitrogen - 03</item>
+		<item>Nitrogen - 04</item>
+		<item>Nitrogen - 05</item>
+		<item>Nitrogen - 06</item>
+		<item>Nitrogen - 07</item>
+		<item>Nitrogen - 08</item>
+		<item>Nitrogen - 09</item>
+		<item>Nitrogen - 10</item>
+		<item>Nitrogen - 11</item>
+		<item>Nitrogen - 12</item>
+		<item>Nitrogen - 13</item>
+		<item>Nitrogen - 14</item>
+		<item>Nitrogen - 15</item>
+		<item>Nitrogen - 16</item>
+		<item>Nitrogen - 17</item>
+		<item>Nitrogen - 18</item>
+		<item>Nitrogen - 19</item>
+		<item>Nitrogen - 20</item>
+		<item>Nitrogen - 21</item>
+		<item>Nitrogen - 22</item>
+		<item>Nitrogen - 23</item>
+		<item>Nitrogen - 24</item>
+		<item>Nitrogen - 25</item>
+		<item>Nitrogen - 26</item>
+		<item>Nitrogen - 27</item>
+		<item>Nitrogen - 28</item>
+		<item>Nitrogen - 29</item>
+		<item>Nitrogen - 30</item>
 	</string-array>
 </resources>
