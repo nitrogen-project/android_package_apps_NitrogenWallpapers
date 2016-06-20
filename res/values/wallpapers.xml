@@ -37,12 +37,6 @@
 		<item>nos_22</item>
 		<item>nos_23</item>
 		<item>nos_24</item>
-		<item>nos_25</item>
-		<item>nos_26</item>
-		<item>nos_27</item>
-		<item>nos_28</item>
-		<item>nos_29</item>
-		<item>nos_30</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -70,11 +64,5 @@
 		<item>Nitrogen - 22</item>
 		<item>Nitrogen - 23</item>
 		<item>Nitrogen - 24</item>
-		<item>Nitrogen - 25</item>
-		<item>Nitrogen - 26</item>
-		<item>Nitrogen - 27</item>
-		<item>Nitrogen - 28</item>
-		<item>Nitrogen - 29</item>
-		<item>Nitrogen - 30</item>
 	</string-array>
 </resources>
