@@ -1,31 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2015 Nitrogen Project
-     Licensed under the Apache License, Version 2.0 (the "License");
-     you may not use this file except in compliance with the License.
-     You may obtain a copy of the License at
-         http://www.apache.org/licenses/LICENSE-2.0
-     Unless required by applicable law or agreed to in writing, software
-     distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-     See the License for the specific language governing permissions and
-     limitations under the License.
+    Copyright (C) 2016 Nitrogen Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="370dp"
-    android:height="370dp"
-    android:viewportWidth="370"
-    android:viewportHeight="370">
+    android:width="58dp"
+    android:height="58dp"
+    android:viewportWidth="58"
+    android:viewportHeight="58">
 
     <path
-        android:fillColor="#009688"
-        android:pathData="M334.608,0H35.393C15.877,0,0,15.877,0,35.393v299.215C0,354.123,15.877,370,35.393,370h299.215
-C354.123,370,370,354.123,370,334.607V35.393C370,15.877,354.123,0,334.608,0z
-M330,226.57
-c-3.442-4.498-50.389-67.375-71.77-67.375s-50.203,37.204-50.203,37.204c-6.056-8.991-15.633-22.837-26.247-36.777
-c-33.754-44.327-47.593-49.722-56.647-49.204c-8.879,0.531-21.909,7.167-64.392,79.639C53.327,202.705,46.187,215.393,40,226.61V40
-h290V226.57z" />
+        android:fillColor="#C3E1ED"
+        android:strokeColor="#E7ECED"
+        android:strokeWidth="2"
+        android:strokeMiterLimit="10"
+        android:pathData="M 1 7 H 57 V 51 H 1 V 7 Z" />
     <path
-        android:fillColor="#009688"
-        android:pathData="M 265.764 66.673 C 280.408382427 66.673 292.28 78.5446175735 292.28 93.189 C 292.28 107.833382427 280.408382427 119.705 265.764 119.705 C 251.119617573 119.705 239.248 107.833382427 239.248 93.189 C 239.248 78.5446175735 251.119617573 66.673 265.764 66.673 Z" />
+        android:fillColor="#ED8A19"
+        android:pathData="M 16 11 C 19.6279585216 11 22.569 13.9410414784 22.569 17.569 C 22.569 21.1969585216 19.6279585216 24.138 16 24.138 C 12.3720414784 24.138 9.431 21.1969585216 9.431 17.569 C 9.431 13.9410414784 12.3720414784 11 16 11 Z" />
+    <path
+        android:fillColor="#1A9172"
+        android:pathData="M 56 36.111 L 55 35 L 43 24 L 32.5 35.5 L 37.983 40.983 L 42 45 L 56 45 Z" />
+    <path
+        android:fillColor="#1A9172"
+        android:pathData="M 2 49 L 26 49 L 21.983 44.983 L 11.017 34.017 L 2 41.956 Z" />
+    <path
+        android:fillColor="#6B5B4B"
+        android:pathData="M 2 45 H 56 V 50 H 2 V 45 Z" />
+    <path
+        android:fillColor="#25AE88"
+        android:pathData="M 37.983 40.983 L 27.017 30.017 L 10 45 L 42 45 Z" />
 </vector>
